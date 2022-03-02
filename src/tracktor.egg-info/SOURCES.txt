@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/tracktor/setup.py
+src/tracktor.egg-info/PKG-INFO
+src/tracktor.egg-info/SOURCES.txt
+src/tracktor.egg-info/dependency_links.txt
+src/tracktor.egg-info/top_level.txt
